@@ -22,7 +22,6 @@ It uses the **TextBlob** library for sentiment analysis and saves the results in
 - Python
 - pandas
 - TextBlob
-- openpyxl
 - Excel (for chart visualization)
 
 ---
